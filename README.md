@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Eu sou o Marcelo Gimenes, sou um Programador Fullstack, atualmente estou aprendendo e criando projetos com:
+
+
+HTML
+CSS
+JAVASCRIPT
+TYPESCRIPT
+REACTE 
+ANGULAR
+JAVA SPRINGBOOT
+
+
